@@ -1,0 +1,11 @@
+{
+  "name": "udemy.com_course_nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YusupovJaloliddin",
+  "license": "ISC"
+}
