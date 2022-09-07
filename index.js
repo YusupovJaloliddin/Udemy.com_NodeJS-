@@ -6,7 +6,7 @@ dotenv.config();
 //MongoDb connection
 DbConnection();
 app.get("/", async (req, res) => {
-  res.send("hi");
+  res.send("Salom");
 });
 app.listen(process.env.PORT || 3001, () => {
   console.log(
